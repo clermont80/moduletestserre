@@ -1,0 +1,7 @@
+﻿  main.cpp
+  VerifSeuil.cpp
+  Génération de code en cours...
+c:\users\mathiszec\source\repos\serrecpp\serrecpp\verifseuil.cpp(32): warning C4172: retourne l'adresse d'une variable locale ou : horaire temporaire
+c:\users\mathiszec\source\repos\serrecpp\serrecpp\verifseuil.cpp(30): error C4789: la mémoire tampon 'horaire' d'une taille de 8 octets sera dépassée ; 4 octets seront écrits en commençant à l'offset 8
+c:\users\mathiszec\source\repos\serrecpp\serrecpp\verifseuil.cpp(32): warning C4172: retourne l'adresse d'une variable locale ou : horaire temporaire
+c:\users\mathiszec\source\repos\serrecpp\serrecpp\verifseuil.cpp(30): error C4789: la mémoire tampon 'horaire' d'une taille de 8 octets sera dépassée ; 4 octets seront écrits en commençant à l'offset 8

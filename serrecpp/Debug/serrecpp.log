@@ -1,0 +1,18 @@
+﻿  main.cpp
+c:\users\mathiszec\source\repos\serrecpp\serrecpp\verifseuil.cpp(68): warning C4101: 'str' : variable locale non référencée
+  VerifSeuil.cpp
+c:\users\mathiszec\source\repos\serrecpp\serrecpp\verifseuil.cpp(68): warning C4101: 'str' : variable locale non référencée
+  Génération de code en cours...
+c:\users\mathiszec\source\repos\serrecpp\serrecpp\verifseuil.cpp(32): warning C4172: retourne l'adresse d'une variable locale ou : horaire temporaire
+c:\users\mathiszec\source\repos\serrecpp\serrecpp\verifseuil.cpp(32): warning C4172: retourne l'adresse d'une variable locale ou : horaire temporaire
+serrecpp.obj : error LNK2005: _main déjà défini(e) dans main.obj
+VerifSeuil.obj : error LNK2005: "public: bool __thiscall VerifSeuil::AllumeArrosage(void)" (?AllumeArrosage@VerifSeuil@@QAE_NXZ) déjà défini(e) dans main.obj
+VerifSeuil.obj : error LNK2005: "public: bool __thiscall VerifSeuil::AllumeBrumi(void)" (?AllumeBrumi@VerifSeuil@@QAE_NXZ) déjà défini(e) dans main.obj
+VerifSeuil.obj : error LNK2005: "public: bool __thiscall VerifSeuil::AllumeChauffage(void)" (?AllumeChauffage@VerifSeuil@@QAE_NXZ) déjà défini(e) dans main.obj
+VerifSeuil.obj : error LNK2005: "public: bool __thiscall VerifSeuil::AllumeVasistas(void)" (?AllumeVasistas@VerifSeuil@@QAE_NXZ) déjà défini(e) dans main.obj
+VerifSeuil.obj : error LNK2005: "public: int __thiscall VerifSeuil::Get_HumiSol(void)" (?Get_HumiSol@VerifSeuil@@QAEHXZ) déjà défini(e) dans main.obj
+VerifSeuil.obj : error LNK2005: "public: int __thiscall VerifSeuil::Get_Hygro(void)" (?Get_Hygro@VerifSeuil@@QAEHXZ) déjà défini(e) dans main.obj
+VerifSeuil.obj : error LNK2005: "public: int * __thiscall VerifSeuil::Get_PlageHoraire(void)" (?Get_PlageHoraire@VerifSeuil@@QAEPAHXZ) déjà défini(e) dans main.obj
+VerifSeuil.obj : error LNK2005: "public: float __thiscall VerifSeuil::Get_TempExt(void)" (?Get_TempExt@VerifSeuil@@QAEMXZ) déjà défini(e) dans main.obj
+VerifSeuil.obj : error LNK2005: "public: float __thiscall VerifSeuil::Get_TempInt(void)" (?Get_TempInt@VerifSeuil@@QAEMXZ) déjà défini(e) dans main.obj
+C:\Users\Mathiszec\source\repos\serrecpp\Debug\serrecpp.exe : fatal error LNK1169: un ou plusieurs symboles définis à différentes reprises ont été rencontrés
